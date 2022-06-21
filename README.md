@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gustavo A. Verneck!
 - Atualmente estou no último semestre da Licenciatura em Física no Instituto Federal do Espírito Santo
-- Nom momento tenho interesse em computação científica, especialmete métodos numéricos de resolução de equações diferenciais
-- Estou estudando Python!
+- Tenho interesse em computação científica, especialmete métodos numéricos de resolução de equações diferenciais
+- Estou estudando Python e C
 
 <div align="center">
   <a href="https://github.com/gustavoverneck">
