@@ -11,6 +11,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fortran" height="30" width="40" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png"> 
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+  <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </div>
   
