@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo A. Verneck!
 - Sou Licenciado em Física pelo Instituto Federal do Espírito Santo (IFES) e atualmente curso o Bacharelado em Física também no IFES
-- Tenho interesse em computação científica
+- Tenho interesse em computação científica e em simulações computacionais
 - Atualmente estou estudando C++
 
 <div align="center">
