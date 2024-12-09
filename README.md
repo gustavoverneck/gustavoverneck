@@ -1,5 +1,5 @@
-### Olá, eu sou o Gustavo A. Verneck!
+### Hello, i'm Gustavo A. Verneck!
 
-- Mestrando em Física Teórica na Universidade Federal do Espírito Santo
-- Licenciado em Física pelo Instituto Federal do Espírito Santo (IFES) e quasi-bacharel em Física também no IFES
-- Interesse em física, computação científica e em simulações computacionais
+- Master's student in Theoretical Physics at the Federal University of Espírito Santo
+- Graduated in Physics from the Federal Institute of Espírito Santo (IFES)
+- Interest in physics, scientific computing and simulations
