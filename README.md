@@ -48,12 +48,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoverneck&show_icons=true&theme=tokyonight" alt="Gustavo's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoverneck&layout=compact&theme=tokyonight" alt="Top languages"/>
+<p>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gustavoverneck.framer.website/">
+    <img src="https://img.shields.io/badge/-Website-24292E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
