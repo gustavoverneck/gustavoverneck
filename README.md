@@ -48,11 +48,6 @@
 
 ### 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoverneck&show_icons=true&theme=tokyonight" alt="Gustavo's GitHub stats"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoverneck&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
