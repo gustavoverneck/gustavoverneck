@@ -1,6 +1,6 @@
 <!-- Profile README for Gustavo A. Verneck -->
 
-<h1 align="center">Hello, I'm Gustavo A. Verneck! 👋</h1>
+<h1 align="center">Hello, I'm Gustavo A. Verneck!</h1>
 
 <p align="center">
   <em>Master's student in Physics at the Federal University of Espírito Santo</em><br/>
