@@ -41,7 +41,7 @@
 - 🤖 **Machine Learning**: Scikit-learn  
 - 🎨 **Web Dev & Design**: HTML/CSS, Framer  
 - 🗃 **Version Control**: Git, GitHub  
-- 💻 **Operating Systems**: Linux, Windows  
+- 💻 **Operating Systems**: Linux, Windows, macOS
 - 📄 **Scientific Documentation**: LaTeX
 
 ---
