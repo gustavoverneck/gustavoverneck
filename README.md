@@ -10,7 +10,7 @@
 
 ---
 
-### 🧪 Areas of interest
+### Areas of interest
 - High Performance Computing
 - Computational Physics
 - Data Science & Simulations
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Programming Languages
 
@@ -36,17 +36,17 @@
 
 #### Tools & Libraries
 
-- ⚙️ **Python Backend**: Django, Flask, FastAPI  
-- 📊 **Data & Visualization**: Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- 🤖 **Machine Learning**: Scikit-learn  
-- 🎨 **Web Dev & Design**: HTML/CSS, Framer  
-- 🗃 **Version Control**: Git, GitHub  
-- 💻 **Operating Systems**: Linux, Windows, macOS
-- 📄 **Scientific Documentation**: LaTeX
+- **Python Backend**: Django, Flask, FastAPI  
+- **Data & Visualization**: Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Machine Learning**: Scikit-learn  
+- **Web Dev & Design**: HTML/CSS, Framer  
+- **Version Control**: Git, GitHub  
+- **Operating Systems**: Linux, Windows, macOS
+- **Scientific Documentation**: LaTeX
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoverneck&layout=compact&theme=tokyonight" alt="Top languages"/>
@@ -54,7 +54,7 @@
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 <p>
   <a href="mailto:gustavoverneck@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
