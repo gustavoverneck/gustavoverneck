@@ -3,8 +3,8 @@
 <h1 align="center">Hello, I'm Gustavo A. Verneck!</h1>
 
 <p align="center">
-  <em>Master's in Physics at the Federal University of Espírito Santo</em><br/>
-  <em>Graduated in Physics from the Federal Institute of Espírito Santo (IFES)</em><br/>
+  <em>PhD Student at the Federal University of Espírito Santo</em><br/>
+  <em>M.Sc. in Physics, Universidade Federal do Espírito Santo</em><br/>
   <em>Passionate about physics, scientific computing, and simulations</em>
 </p>
 
