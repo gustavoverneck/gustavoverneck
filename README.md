@@ -39,8 +39,7 @@
 - **Python Backend**: Django, Flask, FastAPI  
 - **Data & Visualization**: Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 - **Machine Learning**: Scikit-learn  
-- **Web Dev & Design**: HTML/CSS, Framer  
-- **Version Control**: Git, GitHub  
+- **Web Dev & Design**: HTML/CSS, Framer
 - **Operating Systems**: Linux, Windows, macOS
 - **Scientific Documentation**: LaTeX
 
